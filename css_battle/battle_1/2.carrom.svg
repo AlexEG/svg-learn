@@ -1,0 +1,6 @@
+<svg height="100%" width="100%" style="background:#62374e; position:fixed; inset:0"> 
+    <rect width="50" height="50" x="50" y="50" fill="#fdc57b" />
+    <rect width="50" height="50" x="50" y="200" fill="#fdc57b" />
+    <rect width="50" height="50" x="300" y="50" fill="#fdc57b" />
+    <rect width="50" height="50" x="300" y="200" fill="#fdc57b" />
+</sg>
