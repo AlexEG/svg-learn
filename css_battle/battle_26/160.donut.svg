@@ -1,0 +1,4 @@
+<svg viewBox="0 0 400 300" style="background:#62306D; position:fixed; inset:0">
+  <path d="M 100 150 h40 a 60 60 0 0 1 60 -60 v-40 a 100 100 0 0 0 -100 100" fill="#E38F66" />
+  <path d="M 100 150 a 100 100 0 1 0 100 -100 v40 a 60 60 0 1 1 -60 60" fill="#F7EC7D" />
+</svg>
