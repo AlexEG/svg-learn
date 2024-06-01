@@ -1,35 +1,6 @@
-<svg viewBox="0 0 400 300" style="background:white;">
-
-
+<svg viewBox="0 0 400 300" style="background:#33499F; position:fixed; inset:0">
   <path d="M 0 25 h400 M 0 50 h400M 0 75 h400M 0 100 h400M 0 125 h400M 0 150 h400M 0 175 h400M 0 200 h400M 0 225 h400M 0 250 h400M 0 275 h400
-M 25 0 v300M 50 0 v300M 75 0 v300M 100 0 v300M 125 0 v300M 150 0 v300M 175 0 v300M 200 0 v300M 225 0 v300M 250 0 v300M 275 0 v300M 300 0 v300M 325 0 v300M 350 0 v300M 375 0 v300" stroke="#00000055" stroke-width=".2" />
+M 25 0 v300M 50 0 v300M 75 0 v300M 100 0 v300M 125 0 v300M 150 0 v300M 175 0 v300M 200 0 v300M 225 0 v300M 250 0 v300M 275 0 v300M 300 0 v300M 325 0 v300M 350 0 v300M 375 0 v300" stroke="#FFFFFF" stroke-width=".2" />
 
-  <!-- <path d="M 0 25 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 50 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 75 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 100 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 125 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 150 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 175 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 200 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 225 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 250 h400" stroke="#00000055" stroke-width=".2" />
-  <path d="M 0 275 h400" stroke="#00000055" stroke-width=".2" />
-
-  <path d="M 25 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 50 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 75 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 100 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 125 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 150 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 175 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 200 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 225 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 250 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 275 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 300 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 325 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 350 0 v300" stroke="#00000055" stroke-width=".2" />
-  <path d="M 375 0 v300" stroke="#00000055" stroke-width=".2" /> -->
 
 </svg>
