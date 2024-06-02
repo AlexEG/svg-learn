@@ -1,0 +1,4 @@
+<svg viewBox="0 0 400 300" style="background:#6867D4; position:fixed; inset:0">
+  <path d="M 0 100 l 50 25, 0 100, -50 -25 Z M 150 25 l 100 50, 0 200, -100 -50 Z M 350 75 l 50 25, 0 100, -50 -25 Z" fill="#7BAFDE" />
+  <path d="M 50 125 l 100 -50, 0 100, -100 50 Z M 250 125 l 100 -50, 0 100, -100 50 Z" fill="#000039"/>
+</svg>
